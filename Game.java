@@ -14,7 +14,7 @@
  * the game is done, if the game has been won, get the value 
  * of a tile, print the arrays, and the amount of mines 
  * around a tile.
- * 
+ * /
  */
 
 import java.util.Scanner;

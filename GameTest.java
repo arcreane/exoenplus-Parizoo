@@ -1,4 +1,4 @@
-
+ 
 /* Author: Mortyyy
  * 
  * This is the main class for the mine sweeper game.
